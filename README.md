@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notahmedwael
 - 👀 I’m interested in computers and technology
-- 🌱 I’m currently learning programming (python and C++ till now)
+- 🌱 I’m currently learning programming
 - 📫 How to reach me :
 -                     Twitter: @notahmedwael
 -                     Instagram: @notahmedwael
