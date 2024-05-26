@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @notahmedwael
-- 👀 I’m interested in computers and technology
-- 🌱 I’m currently learning programming
+- 👋 Hi, I'm Ahmed Wael, I'm an undergraduate student at Faculty Of Computers And Artificial Intelligence in Cairo University
+- 💻 Studying to become a web devoloper
+- 📌 I’m currently learning ReactJS & Backend using NodeJS & Express
 - 📫 How to reach me :
 -                     Twitter: @notahmedwael
 -                     Instagram: @notahmedwael
