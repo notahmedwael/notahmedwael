@@ -5,3 +5,4 @@
 -                     Twitter: @notahmedwael
 -                     Instagram: @notahmedwael
 -                     Facebook: facebook.com/notahmedwael
+-                     Linkedin: https://www.linkedin.com/in/ahmed-wael-9a6389284/
