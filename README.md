@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Ahmed Wael, I'm an undergraduate student at Faculty Of Computers And Artificial Intelligence in Cairo University
-- 💻 Studying to become a web devoloper
-- 📌 I’m currently learning ReactJS & Backend using NodeJS & Express
+- 👋 Hi, I'm Ahmed Wael, I Graduated From Faculty Of Computers And Artificial Intelligence in Cairo University
+- 💻 Currently at ITI OSAD 9 Months Program
 - 📫 How to reach me :
 -                     Twitter: @notahmedwael
 -                     Instagram: @notahmedwael
