@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ahmed Wael, I Graduated From Faculty Of Computers And Artificial Intelligence in Cairo University
-- 💻 Currently at ITI OSAD 9 Months Program
+- 💻 Currently in ITI OSAD 9 Months Program
 - 📫 How to reach me :
 -                     Twitter: @notahmedwael
 -                     Instagram: @notahmedwael
